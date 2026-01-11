@@ -1,0 +1,1 @@
+## Testovaci projekt DiceGame
